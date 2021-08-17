@@ -1,6 +1,8 @@
 const router = require('express').Router();
 const Act = require('../models/actMODEL');
 
+
+
 router.post('/api/act', async ({ body }, res) => {
     try {
         const dbCreate = await Act.create(body);

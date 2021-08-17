@@ -1,6 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const routes = require('./api');
+const api = require('./api/actAPI');
+const routes = require('./routes/landRoutes');
 
 const PORT = process.env.PORT || 3000;
 
@@ -9,7 +10,7 @@ const app = express();
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-app.use(express.static('public'));
+app.use(express.static('./public'));
 
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/budget', {
     useNewUrlParser: true,
@@ -17,6 +18,7 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/budget', {
     useUnifiedTopology: true
 });
 
+app.use(api);
 app.use(routes);
 
 app.listen(PORT, () => {
