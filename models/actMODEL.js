@@ -48,18 +48,6 @@ actSchema.methods.timeDesc = function () {
 
 const Workout = mongoose.model('Workout', actSchema);
 
-module.exports = Workout;
-
-// const workout = new Workout({
-//     type: 'cardio',
-//     name: 'high jumps',
-//     duration: '20',
-//     reps: 5,
-//     sets: 5
-// })
-
-// workout.nameCapCase();
-
-// workout.timeDesc();
-
-// console.log(workout);
+module.exports = {
+    Workout: Workout,
+};
