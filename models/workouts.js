@@ -42,10 +42,10 @@ const actSchema = new Schema({
 
 });
 
-actSchema.methods.nameCapCase = function () {
-    this.name = this.exercises.name.replace(/(?:^|\s)\S/g, function (a) { return a.toUpperCase(); });
-    return this.exercises.name;
-};
+// actSchema.methods.nameCapCase = function () {
+//     this.name = this.exercises.name.replace(/(?:^|\s)\S/g, function (a) { return a.toUpperCase(); });
+//     return this.exercises.name;
+// };
 
 const Workout = mongoose.model('Workout', actSchema);
 
