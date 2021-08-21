@@ -1,7 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const api = require('./api/actAPI');
-const routes = require('./routes/landRoutes');
+const landingRoutes = require('./routes/landRoutes');
+const apiRoutes = require('./routes/apiRoutes');
 
 const PORT = process.env.PORT || 3000;
 
@@ -18,8 +18,8 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/budget', {
     useUnifiedTopology: true
 });
 
-app.use(api);
-app.use(routes);
+app.use(landingRoutes);
+app.use(apiRoutes);
 
 app.listen(PORT, () => {
     console.log(`App running on port ${PORT}`);
