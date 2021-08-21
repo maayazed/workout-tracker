@@ -32,7 +32,7 @@ router.get('/api/workouts/range', (req, res) => {
             }
         ])
             .sort({ day: -1 })
-            .limit(5)
+            .limit(7)
             .then((dbFind) => {
                 res.json(dbFind);
             });
