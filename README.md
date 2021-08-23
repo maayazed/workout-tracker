@@ -29,9 +29,7 @@
 
 </div>
 
-<h2 align="center"><strong><a href='https://maayazed.github.io/weather-dashboard/'>LIVE DEMO</a></strong></h2>
-
-![Screenshot 2021-06-30 183908](https://user-images.githubusercontent.com/79816212/124044226-8acd4500-d9d2-11eb-8abe-8058807d13d5.png)
+![Screenshot 2021-08-22 202430](https://user-images.githubusercontent.com/79816212/130377791-297219ce-6dfd-42cd-8e6e-b0227c7099db.png)
 
 <hr>
 
