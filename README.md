@@ -40,7 +40,7 @@
 
 <div>
 <h4>Guide: </h4> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Homepage</strong>:The homepage will show the user their last workout logged.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Homepage</strong>: The homepage will show the user their last workout logged.</p>
     <ul>
         <li>Date</li>
         <li>Total Workout Duration</li>
@@ -50,6 +50,11 @@
         <li>Total Sets Performed</li>
         <li>Total Reps Performed</li>
         <li>Total Distance Covered</li>
+    </ul>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Stats</strong>: The stats page will show two graphs.</p>
+    <ul>
+        <li>Minutes per day</li>
+        <li>Total weight lifted per day</li>
     </ul>
 </div>
 
