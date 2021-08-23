@@ -2,7 +2,7 @@
 <h1><strong>Workout Tracker</strong></h1>
 </div>
 
-### Badges: [![badge src!](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses) ![badge src!](https://img.shields.io/badge/-mongoDB-green) ![badge src!](https://img.shields.io/badge/-express-brightgreen) ![badge src!](https://img.shields.io/badge/-mongoose-red)
+### Badges: [![badge src!](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses) ![badge src!](https://img.shields.io/badge/-mongoDB-green) ![badge src!](https://img.shields.io/badge/-express-brightgreen) ![badge src!](https://img.shields.io/badge/-mongoose-red) ![badge src!](https://img.shields.io/github/issues/maayazed/workout-tracker)
 
 <div align='center'>
 <img src='https://user-images.githubusercontent.com/79816212/130377649-87ca0938-aeea-4dba-bc64-12561d8b2132.gif'/>
