@@ -2,8 +2,7 @@
 <h1><strong>Workout Tracker</strong></h1>
 </div>
 
-### Badges: [![badge src!](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses) [![badge src!](https://img.shields.io/badge/-mongoDB-green)] 
-[![badge src!](https://img.shields.io/badge/-mongoose-red)]
+### Badges: [![badge src!](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses) ![badge src!](https://img.shields.io/badge/-mongoDB-green) ![badge src!](https://img.shields.io/badge/-mongoose-red)
 
 <div align='center'>
 gif here
