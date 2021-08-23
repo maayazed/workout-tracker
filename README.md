@@ -12,7 +12,6 @@
 <strong>Table of Contents</strong>  
 <hr>
     <p><a href='#desc'>About</a></p>
-    <p><a href='#deploy'>Deployment</a></p>
     <p><a href='#user'>User Guidelines</a></p>
     <p><a href='#license'>Licensing</a></p>
     <p><a href='#contribute'>Contributors</a></p>
@@ -26,21 +25,10 @@
 </div>
 
 <div align='center'>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fitness Tracker is a web application allowing users to create, track, and view exercises. MongoDB and mongoose are utilized with express routing to make a logger type interface.
 </div>
 
 ![Screenshot 2021-08-22 202430](https://user-images.githubusercontent.com/79816212/130377791-297219ce-6dfd-42cd-8e6e-b0227c7099db.png)
-
-<hr>
-
-<div align='center'>
-    <h3><a id='deploy'>Deployment</a></h3>
-</div>
-
-<div>
-<h4>Instructions: </h4>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View from repository via provided <a href='https://maayazed.github.io/weather-dashboard/'>link</a>.
-</div>
 
 <hr>
 
