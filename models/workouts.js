@@ -24,6 +24,10 @@ const actSchema = new Schema({
                 type: Number,
                 required: [true, 'Number value is required']
             },
+            distance: {
+                type: Number,
+                required: ['Number value is required']
+            },
             weight: {
                 type: Number,
                 required: [true, 'Number value is required']

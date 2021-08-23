@@ -21,17 +21,21 @@ router.get('/api/workouts/range', (req, res) => {
                     totalTime:
                         { $sum: '$exercises.duration' },
                     totalAmount:
-                        { $sum: '$exercises.weight' }
+                        { $sum: '$exercises.weight' },
+                    Distance:
+                        { $sum: '$exercises.distance' }
                 }
             },
             {
                 $addFields: {
                     totalDuration:
-                        { $add: ['$totalTime'] }
+                        { $add: ['$totalTime'] },
+                    totalDistance:
+                        { $add: ['$Distance'] }
                 }
             }
         ])
-            .sort({ day: -1 })
+            .sort({ day: 1 })
             .limit(7)
             .then((dbFind) => {
                 res.json(dbFind);
@@ -49,13 +53,18 @@ router.get("/api/workouts", (req, res) => {
                 $addFields: {
                     totalTime: {
                         $sum: '$exercises.duration'
+                    },
+                    Distance: {
+                        $sum: 'exercises.distance'
                     }
                 }
             },
             {
                 $addFields: {
                     totalDuration:
-                        { $add: ['$totalTime'] }
+                        { $add: ['$totalTime'] },
+                    totalDistance:
+                        { $add: ['$Distance'] }
                 }
             }
         ])
