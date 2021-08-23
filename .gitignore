@@ -1,3 +1,6 @@
+#Additonal Files
+.DS_store
+
 # Logs
 logs
 *.log
