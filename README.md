@@ -40,20 +40,18 @@
 
 <div>
 <h4>Guide: </h4> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Homepage</strong>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The homepage will show the user their last workout logged.
-    <ol>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Homepage</strong></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>The homepage will show the user their last workout logged.</p>
+    <ul>
         <li>Date</li>
         <li>Total Workout Duration</li>
         <li>Exercises Performed</li>
-    </ol>
     Additonally:
-    <ol>
         <li>Total Weight Lifted</li>
         <li>Total Sets Performed</li>
         <li>Total Reps Performed</li>
         <li>Total Distance Covered</li>
-    </ol>
+    </ul>
 </div>
 
 <hr>
