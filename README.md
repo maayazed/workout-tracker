@@ -65,7 +65,8 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>MIT</strong> © <strong>maayazed</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Server side materials <strong>ONLY</strong> found in respository provided by <strong>MIT</strong> © <strong>maayazed</strong>
+
 </div>
 
 <hr>
@@ -75,8 +76,8 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/maayazed/'><img src='https://img.shields.io/badge/User-maayazed-blue'></a>
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/maayazed/'><img src='https://img.shields.io/badge/User-maayazed-blue'></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in collaboration with &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://ccaps.umn.edu/full-stack-web-development-certificate-coding-boot-camp'><img src='https://user-images.githubusercontent.com/79816212/124851684-9edfec00-df68-11eb-9686-3e92a871c50d.png' width="50%" height="50%"></a></div>
 
 <hr>
 
