@@ -24,7 +24,7 @@
     <h3><a id='desc'>About</a></h3>
 </div>
 
-<div align='center'>
+<div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fitness Tracker is a web application allowing users to create, track, and view exercises. MongoDB and mongoose are utilized with express routing to make a logger type interface.
 </div>
 
