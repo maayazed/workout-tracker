@@ -25,7 +25,7 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fitness Tracker is a web application allowing users to create, track, and view exercises. MongoDB and mongoose are utilized with express routing to make a logger type interface.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fitness Tracker is a web application allowing users to create, track, and view their workout history. MongoDB and mongoose are utilized with express routing to make a logger-type interface for exercises.
 </div>
 
 <br>
