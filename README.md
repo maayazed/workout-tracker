@@ -13,6 +13,7 @@
 <hr>
     <p><a href='#desc'>About</a></p>
     <p><a href='#user'>User Guidelines</a></p>
+    <p><a href='#bugs'>Bugs</a></p>
     <p><a href='#license'>Licensing</a></p>
     <p><a href='#contribute'>Contributors</a></p>
     <p><a href='#contact'>Contact</a></p>
@@ -44,10 +45,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>📈<strong>Stats</strong>: The stats page will show two graphs.</p>
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>✍<strong>Navigation</strong>: Log in a cardio or resistance workout to the database from the homepage buttons.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>✍<strong>Navigation</strong>: Log in a cardio, or resistance workout to the database from the homepage nav buttons.</p>
 
 </div>
 
+<hr>
+
+<div align='center'>
+    <h3><a id='bugs'>Bugs</a></h3>
+</div>
+  
+  <p>⚠️<strong>No avalible working live link due to issue <a href='https://github.com/maayazed/workout-tracker/issues/2'><img src='https://img.shields.io/badge/-Deployment-yellow'/></a>.</strong></p>
+  
 <hr>
 
 <div align='center'>
