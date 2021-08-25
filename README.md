@@ -43,9 +43,9 @@
 <h4>Guide: </h4> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>&#128221;<strong>Homepage</strong>: The homepage will show the user their last workout logged. </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>📈<strong>Stats</strong>: The stats page will show two graphs.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>📈<strong>Stats</strong>: The stats page will show two graphs: Workout time/ day, and pounds lifted/ day.</p>
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>✍<strong>Navigation</strong>: Log in a cardio, or resistance workout to the database from the homepage nav buttons.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>✍<strong>Navigation</strong>: Log a cardio or resistance workout to the database from the homepage nav buttons.</p>
 
 </div>
 
@@ -55,7 +55,7 @@
     <h3><a id='bugs'>Bugs</a></h3>
 </div>
   
-  <p>⚠️<strong>No avalible working live link due to issue <a href='https://github.com/maayazed/workout-tracker/issues/2'><img src='https://img.shields.io/badge/-Deployment-yellow'/></a>.</strong></p>
+  <p>⚠️<strong>No available working live link due to issue <a href='https://github.com/maayazed/workout-tracker/issues/2'><img src='https://img.shields.io/badge/-Deployment-yellow'/></a>.</strong></p>
   
 <hr>
 
