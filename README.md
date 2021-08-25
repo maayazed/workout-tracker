@@ -40,11 +40,11 @@
 
 <div>
 <h4>Guide: </h4> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Homepage</strong>: The homepage will show the user their last workout logged. </p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#128221;<p><strong>Homepage</strong>: The homepage will show the user their last workout logged. </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Stats</strong>: The stats page will show two graphs.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈<p><strong>Stats</strong>: The stats page will show two graphs.</p>
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><strong>Navigation</strong>: Log in a cardio or </p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✍<p><strong>Navigation</strong>: Log in a cardio or resistance workout to the database from the homepage buttons.</p>
 
 </div>
 
